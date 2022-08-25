@@ -1,6 +1,7 @@
 # pui-assignment-8-
 
-HOSTING LINK: https://karan-1410.github.io/pui-assignment-8-/
+HOSTING LINK: https://karan-1410.github.io/pui-assignment-8-/ <br>
+FIGMA LINK: https://www.figma.com/file/In7VnB2b6Bgd7Q1sam5cff/PUI-Final-Project?node-id=0%3A1
 <br>
 **What is the website about** <br>
 This is a portfolio website for the sake of showing my work as a Design and HCII student. It is a portfolio website. The website shows the overview of my projects in terms of the duration, team members, advisors and the tools used. It is mainly for the projects that I have. This website is mainly for rescruiters and like-minded people to see my work and my potential and hopefully help get a job. I have used the external library Tilt.js which is fun and cool to use. Furthermore, I hope that my content is interesting for the audience. <br>
